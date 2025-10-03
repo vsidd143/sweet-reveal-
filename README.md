@@ -19,7 +19,7 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Anuj579/sweet-reveal.git
+git clone https://github.com/vsidd143/sweet-reveal.git
 
 # Navigate into the folder
 cd sweet-reveal
